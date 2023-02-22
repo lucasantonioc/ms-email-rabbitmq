@@ -1,4 +1,4 @@
-package com.ms.email.configs.configs;
+package com.ms.email.configs;
 
 import org.springframework.amqp.core.Queue;
 import org.springframework.amqp.support.converter.Jackson2JsonMessageConverter;
